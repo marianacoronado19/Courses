@@ -14,4 +14,19 @@
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
     <string name="tech">Tech</string>
+    <string name="administration">Administration</string>
+    <string name="astronomy">Astronomy</string>
+    <string name="automotive">Automotive</string>
+    <string name="biology">Biology</string>
+    <string name="ecology">Ecology</string>
+    <string name="engineering">Engineering</string>
+    <string name="finance">Finance</string>
+    <string name="geology">Geology</string>
+    <string name="history">History</string>
+    <string name="journalism">Journalism</string>
+    <string name="law">Law</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="mechanics">Mechanics</string>
+    <string name="medical">Medical</string>
+    <string name="pharmacy">Pharmacy</string>
 </resources>

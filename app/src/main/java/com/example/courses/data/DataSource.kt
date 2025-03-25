@@ -16,6 +16,22 @@ object DataSource {
         Curso(R.string.music, 212, R.drawable.music),
         Curso(R.string.painting, 172, R.drawable.painting),
         Curso(R.string.photography, 321, R.drawable.photography),
-        Curso(R.string.tech, 118, R.drawable.tech)
+        Curso(R.string.tech, 118, R.drawable.tech),
+        Curso(R.string.administration, 124, R.drawable.administration),
+        Curso(R.string.astronomy, 221, R.drawable.astronomy),
+        Curso(R.string.automotive, 84, R.drawable.automotive),
+        Curso(R.string.biology, 361, R.drawable.biology),
+        Curso(R.string.ecology, 112, R.drawable.ecology),
+        Curso(R.string.engineering, 190, R.drawable.engineering),
+        Curso(R.string.finance, 178, R.drawable.finance),
+        Curso(R.string.geology, 242, R.drawable.geology),
+        Curso(R.string.history, 166, R.drawable.history),
+        Curso(R.string.journalism, 122, R.drawable.journalism),
+        Curso(R.string.administration, 99, R.drawable.administration),
+        Curso(R.string.law, 34, R.drawable.law),
+        Curso(R.string.mathematics, 289, R.drawable.mathematics),
+        Curso(R.string.mechanics, 325, R.drawable.mechanic),
+        Curso(R.string.medical, 125, R.drawable.medical),
+        Curso(R.string.pharmacy, 102, R.drawable.pharmacy)
     )
 }
